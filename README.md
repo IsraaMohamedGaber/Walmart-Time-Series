@@ -32,4 +32,4 @@ Your task: Forecast sales for **Department 6** using historical data, trends, se
 
 ## 🚀 Run the App
 ```bash
-streamlit run app/app.py
+streamlit run app/main.py
